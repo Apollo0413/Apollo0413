@@ -4,12 +4,11 @@
 
 
 <h1>🧙‍♀️ About Me</h1>
-<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
 <p>
 As a skilled frontend developer, I am proficient in HTML, CSS, and JavaScript, and possess expertise in frameworks such as React, Vue, Angular, Tailwind, Sass, and Typescript. In addition, I have the knowledge and experience to leverage backend technologies like Node.js, Express, Django, Ruby on Rails, and Laravel to create robust and seamless functionalities that exceed user expectations.
 
-But my sorcery doesn't end there! I possess the mystical knowledge of backend alchemy, wielding the potent forces of Node.js, Express, Django, Ruby on Rails, Laravel, and more. With these powers, I create robust functionalities and seamless interactions that leave users mesmerized.
+As a highly motivated and experienced full-stack developer, I can help build innovative solutions for our customers. I have excellent communication skills and can work independently or as part of a team.
   
 </p>
 
