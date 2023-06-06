@@ -6,16 +6,12 @@
 <h1>🧙‍♀️ About Me</h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
-With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
-
-But my sorcery doesn't end there! I possess the mystical knowledge of backend alchemy, wielding the potent forces of Node.js, Express, Django, Ruby on Rails, Laravel, and more. With these powers, I create robust functionalities and seamless interactions that leave users mesmerized.
+As a skilled frontend developer, I am proficient in HTML, CSS, and JavaScript, and possess expertise in frameworks such as React, Vue, Angular, Tailwind, Sass, and Typescript. In addition, I have the knowledge and experience to leverage backend technologies like Node.js, Express, Django, Ruby on Rails, and Laravel to create robust and seamless functionalities that exceed user expectations.
   
 </p>
 <img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
-Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
-  
-Together, let's shape a digital landscape that radiates with wonder and awe!
+Whether you are seeking a collaborative partner or simply interested in discussing digital solutions, I look forward to the opportunity to connect with you and contribute to creating a digital landscape that inspires and delights users.
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
