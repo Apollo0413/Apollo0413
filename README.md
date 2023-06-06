@@ -12,7 +12,7 @@ As a highly motivated and experienced full-stack developer, I can help build inn
   
 </p>
 
-<img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<!-- <img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" /> -->
 
 <p>
 Whether you are seeking a collaborative partner or simply interested in discussing digital solutions, I look forward to the opportunity to connect with you and contribute to creating a digital landscape that inspires and delights users.
