@@ -82,7 +82,8 @@ Whether you are seeking a collaborative partner or simply interested in discussi
 
 ## Github Analytics
 <div align="center">
-  <a href="https://tonyrui.netlify.app/">
+<!--   <a href="https://talentedman0413.netlify.app/"> -->
+  <a href="#">
     <img src="https://raw.githubusercontent.com/Apollo0413/Apollo0413/master/profile-3d-contrib/profile-season-animate.svg"/>
   </a>
 </div>
